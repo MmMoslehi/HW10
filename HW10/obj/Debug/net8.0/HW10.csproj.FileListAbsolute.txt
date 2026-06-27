@@ -15,3 +15,4 @@ C:\Users\MhmdMhdi\Desktop\HW10\HW10\obj\Debug\net8.0\refint\HW10.dll
 C:\Users\MhmdMhdi\Desktop\HW10\HW10\obj\Debug\net8.0\HW10.pdb
 C:\Users\MhmdMhdi\Desktop\HW10\HW10\obj\Debug\net8.0\HW10.genruntimeconfig.cache
 C:\Users\MhmdMhdi\Desktop\HW10\HW10\obj\Debug\net8.0\ref\HW10.dll
+C:\Users\MhmdMhdi\Desktop\HW10\HW10\obj\Debug\net8.0\HW10.sourcelink.json

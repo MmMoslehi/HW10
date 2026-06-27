@@ -10,7 +10,6 @@ public interface IUserRepository
     User? GetByUserName(string userName);
     List<User> GetAll();
     void Remove(string userName, string password);
-    void Update(string userName, User newUser);
     Result ChangeStatus(string userName, StatusEnum @enum);
     void Set(List<User> u);
 }

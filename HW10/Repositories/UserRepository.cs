@@ -82,17 +82,5 @@ public class UserRepository : IUserRepository
         File.WriteAllText(_path, data);
     }
 
-    public void Update(string userName, User newUser)
-    {
-        var data = File.ReadAllText(_path);
-        var entities = JsonConvert.DeserializeObject<List<User>>(data);
-        var entity = entities!.FirstOrDefault(x => x.UserName == userName);
-        entity.UserName = newUser.UserName;
-        entity.Password = newUser.Password;
-        entity.Status = newUser.Status;
-        data = JsonConvert.SerializeObject(entities);
-        File.WriteAllText(_path, data);
-    }
-
     #endregion
 }
