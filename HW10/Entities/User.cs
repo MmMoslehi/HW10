@@ -4,6 +4,7 @@ namespace HW10.Entities;
 public class User
 {
     #region Properties
+    public int Id { get; set; }
     public string UserName { get; set; }
     public string Password { get; set; }
     public StatusEnum Status { get; set; }

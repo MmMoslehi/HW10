@@ -1,7 +1,11 @@
-﻿using HW10.Contracts;
+﻿using Dapper;
+using HW10.Connercton;
+using HW10.Contracts;
 using HW10.Entities;
 using HW10.Enums;
+using HW10.Query;
 using Newtonsoft.Json;
+using System.Data.SqlClient;
 
 namespace HW10.Services;
 public class UserService : IUserService
@@ -15,19 +19,20 @@ public class UserService : IUserService
     public List<(string userName, StatusEnum status)>? Search(string s)
     {
         return _userReop.GetAll()
-            .Where(x => x.UserName.StartsWith(s))
             .Select(x => (x.UserName, x.Status))
+            .Where(x => x.UserName.StartsWith(s))
             .ToList();
     }
 
     public Result ChangePassword(string userName, string oldPass, string newPass)
     {
-        var entities = _userReop.GetAll();
-        var entity = entities.FirstOrDefault(x => x.UserName == userName && x.Password == oldPass);
-        entity.Password = newPass;
-        _userReop.Set(entities);
-        return new Result(true, "changePass successful");
-        
+        using (SqlConnection db = new SqlConnection(ConnectionString.Connectionstring))
+        {
+            int im = db.Execute(SqlQueries.UpdatePassword, new { UserName = userName, OldPassword = oldPass, NewPassword = newPass });
+            return im > 0
+                ? new Result(true, "successful")
+                : new Result(false);
+        }
     }
 
     #endregion

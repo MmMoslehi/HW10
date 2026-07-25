@@ -4,7 +4,7 @@ using HW10.Enums;
 using HW10.Repositories;
 using HW10.Services;
 
-IUserRepository userRepository = new UserRepository();
+IUserRepository userRepository = new UserRepositoryDb();
 IAuthenticationSevice authenticationSevice = new AuthenticationService(userRepository);
 IUserService userService = new UserService(userRepository);
 Result isValid;
