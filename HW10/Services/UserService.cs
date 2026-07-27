@@ -26,13 +26,7 @@ public class UserService : IUserService
 
     public Result ChangePassword(string userName, string oldPass, string newPass)
     {
-        using (SqlConnection db = new SqlConnection(ConnectionString.Connectionstring))
-        {
-            int im = db.Execute(SqlQueries.UpdatePassword, new { UserName = userName, OldPassword = oldPass, NewPassword = newPass });
-            return im > 0
-                ? new Result(true, "successful")
-                : new Result(false);
-        }
+        return _userReop.UpdatePassword(userName, oldPass, newPass);
     }
 
     #endregion

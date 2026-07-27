@@ -64,4 +64,9 @@ public class UserRepositoryDb : IUserRepository
     {
         throw new NotImplementedException();
     }
+
+    public Result UpdatePassword(string userName, string oldPass, string newPass)
+    {
+        throw new NotImplementedException();
+    }
 }

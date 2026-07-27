@@ -12,4 +12,5 @@ public interface IUserRepository
     void Remove(string userName, string password);
     Result ChangeStatus(string userName, StatusEnum @enum);
     void Set(List<User> u);
+    Result UpdatePassword(string userName, string oldPass, string newpass);
 }

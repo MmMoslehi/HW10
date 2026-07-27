@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|c:\\users\\mhmdmhdi\\desktop\\hw10\\hw10\\query\\sqlqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|solutionrelative:hw10\\query\\sqlqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|c:\\users\\mhmdmhdi\\desktop\\hw10\\hw10\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|solutionrelative:hw10\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|c:\\users\\mhmdmhdi\\desktop\\hw10\\hw10\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|solutionrelative:hw10\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|c:\\users\\mhmdmhdi\\desktop\\hw10\\hw10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|solutionrelative:hw10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|c:\\users\\mhmdmhdi\\desktop\\hw10\\hw10\\repositories\\userrepositorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|solutionrelative:hw10\\repositories\\userrepositorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|c:\\users\\mhmdmhdi\\desktop\\hw10\\hw10\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|solutionrelative:hw10\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|c:\\users\\mhmdmhdi\\desktop\\hw10\\hw10\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|solutionrelative:hw10\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|c:\\users\\mhmdmhdi\\desktop\\hw10\\hw10\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|solutionrelative:hw10\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|c:\\users\\mhmdmhdi\\desktop\\hw10\\hw10\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|solutionrelative:hw10\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|c:\\users\\mhmdmhdi\\desktop\\hw10\\hw10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|solutionrelative:hw10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|c:\\users\\mhmdmhdi\\desktop\\hw10\\hw10\\repositories\\userrepositorydbef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|solutionrelative:hw10\\repositories\\userrepositorydbef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|c:\\users\\mhmdmhdi\\desktop\\hw10\\hw10\\context\\webdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4887CAF2-0273-4C4A-AA87-6AF227E68B73}|HW10\\HW10.csproj|solutionrelative:hw10\\context\\webdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,92 +50,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AuthenticationService.cs",
-              "DocumentMoniker": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Services\\AuthenticationService.cs",
-              "RelativeDocumentMoniker": "HW10\\Services\\AuthenticationService.cs",
-              "ToolTip": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Services\\AuthenticationService.cs",
-              "RelativeToolTip": "HW10\\Services\\AuthenticationService.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Contracts\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "HW10\\Contracts\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Contracts\\IUserRepository.cs",
+              "RelativeToolTip": "HW10\\Contracts\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T02:30:26.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Program.cs",
-              "RelativeDocumentMoniker": "HW10\\Program.cs",
-              "ToolTip": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Program.cs",
-              "RelativeToolTip": "HW10\\Program.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAqwGsAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T02:16:21.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "HW10\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Services\\UserService.cs*",
-              "RelativeToolTip": "HW10\\Services\\UserService.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwCMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T02:08:23.622Z",
+              "WhenOpened": "2026-07-27T01:14:15.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "HW10\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "HW10\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T02:07:52.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SqlQueries.cs",
-              "DocumentMoniker": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Query\\SqlQueries.cs",
-              "RelativeDocumentMoniker": "HW10\\Query\\SqlQueries.cs",
-              "ToolTip": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Query\\SqlQueries.cs*",
-              "RelativeToolTip": "HW10\\Query\\SqlQueries.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvxIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-25T01:55:44.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "UserRepositoryDb.cs",
               "DocumentMoniker": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Repositories\\UserRepositoryDb.cs",
               "RelativeDocumentMoniker": "HW10\\Repositories\\UserRepositoryDb.cs",
               "ToolTip": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Repositories\\UserRepositoryDb.cs",
               "RelativeToolTip": "HW10\\Repositories\\UserRepositoryDb.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAA7wEMAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T15:46:49.056Z",
+              "WhenOpened": "2026-07-27T01:14:00.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "HW10\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Entities\\User.cs",
-              "RelativeToolTip": "HW10\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "HW10\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "HW10\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwFQAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T13:43:15.693Z",
+              "WhenOpened": "2026-07-27T01:13:53.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "HW10\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Services\\UserService.cs",
+              "RelativeToolTip": "HW10\\Services\\UserService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAvwBwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T01:12:07.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Program.cs",
+              "RelativeDocumentMoniker": "HW10\\Program.cs",
+              "ToolTip": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Program.cs",
+              "RelativeToolTip": "HW10\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAEwGAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T01:08:34.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepositoryDbEF.cs",
+              "DocumentMoniker": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Repositories\\UserRepositoryDbEF.cs",
+              "RelativeDocumentMoniker": "HW10\\Repositories\\UserRepositoryDbEF.cs",
+              "ToolTip": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Repositories\\UserRepositoryDbEF.cs",
+              "RelativeToolTip": "HW10\\Repositories\\UserRepositoryDbEF.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwD8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T00:51:03.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Context\\WebDbContext.cs",
+              "RelativeDocumentMoniker": "HW10\\Context\\WebDbContext.cs",
+              "ToolTip": "C:\\Users\\MhmdMhdi\\Desktop\\HW10\\HW10\\Context\\WebDbContext.cs",
+              "RelativeToolTip": "HW10\\Context\\WebDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T00:32:13.252Z",
               "EditorCaption": ""
             }
           ]

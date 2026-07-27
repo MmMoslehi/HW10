@@ -3,8 +3,8 @@ using HW10.Entities;
 using HW10.Enums;
 using HW10.Repositories;
 using HW10.Services;
-
-IUserRepository userRepository = new UserRepositoryDb();
+WebDbContext webDb = new WebDbContext();
+IUserRepository userRepository = new UserRepositoryDbEF(webDb);
 IAuthenticationSevice authenticationSevice = new AuthenticationService(userRepository);
 IUserService userService = new UserService(userRepository);
 Result isValid;

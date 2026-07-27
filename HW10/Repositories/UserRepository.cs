@@ -82,5 +82,10 @@ public class UserRepository : IUserRepository
         File.WriteAllText(_path, data);
     }
 
+    public Result UpdatePassword(string userName, string oldPass, string newPass)
+    {
+        throw new NotImplementedException();
+    }
+
     #endregion
 }
